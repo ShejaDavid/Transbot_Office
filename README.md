@@ -34,14 +34,14 @@ git clone https://github.com/ShejaDavid/Transbot_Office.git
 cd Transbot_Office
 
 •	2. Create and activate a virtual environment:
-# Create a virtual environment
+## Create a virtual environment
 python3 -m venv venv
 
-# Activate it
-# Mac/Linux
+## Activate it
+## Mac/Linux
 source venv/bin/activate
 
-# OR (for Windows)
+## OR (for Windows)
 venv\Scripts\activate
 
 
