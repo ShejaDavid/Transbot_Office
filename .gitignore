@@ -51,3 +51,4 @@ ehthumbs.db
 *.png filter=lfs diff=lfs merge=lfs -text
 *.pt filter=lfs diff=lfs merge=lfs -text
 *.yaml filter=lfs diff=lfs merge=lfs -text
+venv/
