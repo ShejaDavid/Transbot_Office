@@ -34,8 +34,8 @@ git clone https://github.com/ShejaDavid/Transbot_Office.git
 cd Transbot_Office
 
 •	2. Create and activate a virtual environment:
-python3 -m venv venv
 
+python3 -m venv venv
 source venv/bin/activate  # Mac/Linux
 
 # OR
@@ -43,6 +43,7 @@ source venv/bin/activate  # Mac/Linux
 venv\Scripts\activate  # Windows
 
 •	3. Install required packages:
+
 pip install -r requirements.txt
 
 •	4. Initialize Git LFS:
