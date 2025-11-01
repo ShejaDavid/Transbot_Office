@@ -6,7 +6,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score, f1_score
 import numpy as np
 import torch
 
-# 1️⃣ Configuration
+# Configuration
 project_name = "transbot_office_train"
 data_path = "data.yaml"            # Points to your dataset
 model_name = "yolov8n.pt"          # Use pretrained weights for transfer learning
