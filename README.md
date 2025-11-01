@@ -122,4 +122,4 @@ python train.py --data data.yaml --cfg yolov8n.yaml --weights yolov8n.pt
 
 Author: Alpha Robotics
 GitHub: https://github.com/ShejaDavid/Transbot_Office
-<img width="432" height="654" alt="image" src="https://github.com/user-attachments/assets/f8c11e12-67e8-4c0d-9f7e-e2c8b9f365ea" />
+
